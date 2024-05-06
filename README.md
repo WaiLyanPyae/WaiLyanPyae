@@ -14,6 +14,19 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 - 🔍 Currently, I'm immersed in my studies, exploring the vast and fascinating field of data science. Every day is a new adventure, whether it's unraveling complex datasets or mastering cutting-edge data analysis techniques.
 - 💻 On the side, I'm continuously sharpening my web development skills, experimenting with new frameworks, and staying updated with industry trends.
 - 🚀 I'm always on the lookout for exciting projects and collaborations that challenge me and push the boundaries of what I know.
+- 
+## Skills and Technologies
+
+<p align="left">
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
+  <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
+  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
+</p>
 
 ## Fun Facts
 
