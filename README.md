@@ -26,6 +26,11 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
   <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
   <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="#"><img alt="LAMP" src="https://img.shields.io/badge/LAMP-FFA500?style=for-the-badge&logo=lamp&logoColor=white"/></a>
+  <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 </p>
 
 ## Fun Facts
