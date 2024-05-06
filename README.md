@@ -21,9 +21,14 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
   <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
@@ -31,6 +36,9 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#"><img alt="LAMP" src="https://img.shields.io/badge/LAMP-FFA500?style=for-the-badge&logo=lamp&logoColor=white"/></a>
   <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
 
 ## Fun Facts
