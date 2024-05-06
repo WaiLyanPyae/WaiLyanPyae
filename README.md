@@ -29,7 +29,7 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#" title="Kafka"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
   <a href="#" title="TensorFlow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
   <a href="#" title="PyTorch"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=custom&logoColor=white"/></a>
+  <a href="#" title="spaCy"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=custom&logoColor=white"/></a>
 
   <!-- Web Development Tools -->
   <strong>Web Development:</strong>
