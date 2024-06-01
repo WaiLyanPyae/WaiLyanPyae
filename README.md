@@ -51,7 +51,8 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#" title="MySQL"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#" title="MongoDB"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=vision-friendly-dark)
 
 ## Fun Facts
 
