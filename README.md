@@ -55,10 +55,10 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 
 <div align="center">
     <a href="https://github.com/WaiLyanPyae">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia" alt="Wai's GitHub Language Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia" alt="Wai's GitHub Language Stats" width="400" height="180px"/>
     </a>
     <a href="https://github.com/WaiLyanPyae">
-        <img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=algolia&show_icons=true" alt="Wai's GitHub Stats" width="495"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=algolia&show_icons=true" alt="Wai's GitHub Stats" width="400" height="180px"/>
     </a>
 </div>
 
