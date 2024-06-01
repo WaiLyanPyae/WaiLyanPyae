@@ -53,7 +53,7 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#" title="Selenium"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia)
+![Wai Lyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia)
 
 ## Fun Facts
 
