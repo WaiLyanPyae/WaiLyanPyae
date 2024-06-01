@@ -53,11 +53,14 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
   <a href="#" title="Selenium"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia" alt="Wai's GitHub Language Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=dark&show_icons=true" alt="Wai's GitHub Stats"/>
-</div>
-
+<table>
+<thead>
+<tr>
+<th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia" alt="Wai's GitHub Language Stats"/></th>
+<th><img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=dark&show_icons=true" alt="Wai's GitHub Stats"/></th>
+</tr>
+</thead>
+</table>
 ## Fun Facts
 
 - 🍣 Sushi aficionado: I believe a good sushi meal can solve half of life's problems!
