@@ -55,7 +55,7 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia" alt="Wai's GitHub Language Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=dark&show_icons=true" alt="Wai's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=algolia&show_icons=true" alt="Wai's GitHub Stats"/>
 </div>
 
 ## Fun Facts
