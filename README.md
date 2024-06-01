@@ -54,6 +54,7 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 </p>
 
 ![Wai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiLyanPyae&layout=compact&theme=algolia)
+![Wai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaiLyanPyae&theme=dark&show_icons=true)
 
 ## Fun Facts
 
