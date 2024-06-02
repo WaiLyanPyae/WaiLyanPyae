@@ -8,12 +8,14 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 - 💼 **Experience:** 2 years of web development experience, soaking in both the frontend and backend landscapes. I've had the incredible opportunity to work closely with the Japanese working culture, embracing its meticulousness and dedication.
 - 🌐 **Tech Stack:** I love exploring the full spectrum of web development. From crafting user-friendly interfaces to developing robust server-side logic, I'm all about creating seamless web experiences.
 - 🌟 **Interests:** Besides data and code, I'm passionate about understanding the stories hidden within data, exploring new technologies, and occasionally diving into the world of Japanese culture and language.
+- 💡 **Innovative Thinker:**  I thrive on solving complex problems with creative solutions, always looking for ways to push the boundaries of what's possible in technology and data science.
 
 ## What I'm Up To
 
 - 🔍 Currently, I'm immersed in my studies, exploring the vast and fascinating field of data science. Every day is a new adventure, whether it's unraveling complex datasets or mastering cutting-edge data analysis techniques.
 - 💻 On the side, I'm continuously sharpening my web development skills, experimenting with new frameworks, and staying updated with industry trends.
 - 🚀 I'm always on the lookout for exciting projects and collaborations that challenge me and push the boundaries of what I know.
+- 📈 Continuous Learner: I'm committed to lifelong learning, constantly seeking out new knowledge and skills to stay ahead in the fast-evolving tech landscape.
   
 ## Skills and Technologies
 
@@ -61,11 +63,13 @@ Welcome to my slice of GitHub! I'm currently diving deep into the data-rich wate
 </tr>
 </thead>
 </table>
+
 ## Fun Facts
 
 - 🍣 Sushi aficionado: I believe a good sushi meal can solve half of life's problems!
 - 🌏 Multicultural enthusiast: Having worked closely with Japanese working culture, I've developed a keen interest in understanding and embracing different cultural perspectives.
 - 🏖️ When I'm not data crunching or coding, you can find me planning my next travel adventure or experimenting with photography.
+- 🎒 Travel Enthusiast: Traveling not only satisfies my curiosity about different cultures but also enriches my understanding of global data trends and human behavior. 🇯🇵 🇹🇼 🇸🇬 🇨🇳 🇲🇾 🇮🇩 🇹🇭
 
 ## Let's Connect!
 
